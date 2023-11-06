@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/starter-project/static/css/main.56a23b9d.css",
+    "main.js": "/starter-project/static/js/main.25f075c5.js",
+    "static/media/collage-fotos-eventos.jpg": "/starter-project/static/media/collage-fotos-eventos.1ab89b9aadfaac3be8fd.jpg",
+    "index.html": "/starter-project/index.html",
+    "main.56a23b9d.css.map": "/starter-project/static/css/main.56a23b9d.css.map",
+    "main.25f075c5.js.map": "/starter-project/static/js/main.25f075c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56a23b9d.css",
+    "static/js/main.25f075c5.js"
+  ]
+}
