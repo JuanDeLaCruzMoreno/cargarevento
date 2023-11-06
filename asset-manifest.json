@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.de75f7b8.css",
-    "main.js": "/static/js/main.e5a9a6cd.js",
-    "static/media/collage-fotos-eventos.jpg": "/static/media/collage-fotos-eventos.1ab89b9aadfaac3be8fd.jpg",
-    "index.html": "/index.html",
-    "main.de75f7b8.css.map": "/static/css/main.de75f7b8.css.map",
-    "main.e5a9a6cd.js.map": "/static/js/main.e5a9a6cd.js.map"
+    "main.css": "/cargarevento/static/css/main.e18ec504.css",
+    "main.js": "/cargarevento/static/js/main.e5a9a6cd.js",
+    "static/media/collage-fotos-eventos.jpg": "/cargarevento/static/media/collage-fotos-eventos.1ab89b9aadfaac3be8fd.jpg",
+    "index.html": "/cargarevento/index.html",
+    "main.e18ec504.css.map": "/cargarevento/static/css/main.e18ec504.css.map",
+    "main.e5a9a6cd.js.map": "/cargarevento/static/js/main.e5a9a6cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.de75f7b8.css",
+    "static/css/main.e18ec504.css",
     "static/js/main.e5a9a6cd.js"
   ]
 }
