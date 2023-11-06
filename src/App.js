@@ -38,11 +38,12 @@ function Login() {
     }
   };
 
-  // Esta función se encarga de borrar los campos al cambiar de formulario
+  
   const handleModoCambio = () => {
     setUsuario('');
     setClave('');
     setUsuarioRegistrado(!usuarioRegistrado);
+    setUsuarioAutenticado(false); 
   };
 
   return (
@@ -83,7 +84,7 @@ function Login() {
         )}
         <p>
           {usuarioAutenticado ? (
-            <button onClick={() => setUsuarioAutenticado(false)}>
+             <button onClick={handleModoCambio}>
               Cerrar Sesión
             </button>
           ) : (
