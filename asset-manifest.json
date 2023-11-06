@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cargarevento/static/css/main.e18ec504.css",
-    "main.js": "/cargarevento/static/js/main.25f075c5.js",
+    "main.js": "/cargarevento/static/js/main.4336b888.js",
     "static/media/collage-fotos-eventos.jpg": "/cargarevento/static/media/collage-fotos-eventos.1ab89b9aadfaac3be8fd.jpg",
     "index.html": "/cargarevento/index.html",
     "main.e18ec504.css.map": "/cargarevento/static/css/main.e18ec504.css.map",
-    "main.25f075c5.js.map": "/cargarevento/static/js/main.25f075c5.js.map"
+    "main.4336b888.js.map": "/cargarevento/static/js/main.4336b888.js.map"
   },
   "entrypoints": [
     "static/css/main.e18ec504.css",
-    "static/js/main.25f075c5.js"
+    "static/js/main.4336b888.js"
   ]
 }
